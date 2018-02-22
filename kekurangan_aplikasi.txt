@@ -1,0 +1,8 @@
+Fitur yang belum Terpenuhi
+
+1.  Surat Tolak Untuk calaon Mitra Binaan
+2.  Notifikasi Belom di setingg ke semua agar setian count ya ke reset ke 0
+    tinggal dirapihkan aja
+3   untuk user pegawai berada di login2 password peruri
+4   kalau di form adapilihan form non mitra silakan di klik karena akan menuju langsung
+    ke form login pegawai
